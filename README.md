@@ -1,6 +1,6 @@
 # AI Algorithms
 
-Implementations of AI search algorithms for my CS2007 - Artifical Intelligence course.
+Implementations of AI search algorithms for my CS2007 - Artificial Intelligence course.
 
 ## CIA - 1
 
